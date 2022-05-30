@@ -1,0 +1,10 @@
+{
+    "data":[{"username":"vishnu",
+        "email":"abc@gmail.com"
+        },
+        {"username":"akash",
+            "email":"bbc@gmail.com"
+            },{"username":"vijay",
+                "email":"aac@gmail.com"
+                }]
+}
